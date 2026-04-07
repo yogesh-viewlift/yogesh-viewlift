@@ -9,7 +9,7 @@
 <a href="https://public.tableau.com/app/profile/yogesh7132/vizzes">
   <img align="left" alt="Tableau" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ionicons_logo-tableau.svg" />
 </a>
-<a href="https://medium.com/@yogeshyd">
+<a href="https://medium.com/@yogeshyd/list/frontend-at-scale-49fcb1ae2975">
   <img align="left" alt="Medium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yogesh-ydv">
@@ -18,6 +18,4 @@
 
 <br clear="left"/>
 
-## Writing
 
-[Frontend at Scale 🚀](https://medium.com/@yogeshyd/list/frontend-at-scale-49fcb1ae2975)
