@@ -15,3 +15,9 @@
 <a href="https://www.linkedin.com/in/yogesh-ydv">
   <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
+
+<br clear="left"/>
+
+## Writing
+
+[Frontend at Scale 🚀](https://medium.com/@yogeshyd/list/frontend-at-scale-49fcb1ae2975)
