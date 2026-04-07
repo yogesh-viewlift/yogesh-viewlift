@@ -1,16 +1,17 @@
-## Hi there 👋
+## Connect
 
-<!--
-**yogesh-viewlift/yogesh-viewlift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://x.com/yogesh_yadv">
+  <img align="left" alt="X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" />
+</a>
+<a href="https://stackoverflow.com/users/2575386/yogesh-yadav">
+  <img align="left" alt="Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+</a>
+<a href="https://public.tableau.com/app/profile/yogesh7132/vizzes">
+  <img align="left" alt="Tableau" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ionicons_logo-tableau.svg" />
+</a>
+<a href="https://medium.com/@yogeshyd">
+  <img align="left" alt="Medium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yogesh-ydv">
+  <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+</a>
